@@ -1,0 +1,24 @@
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.exe.config
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.exe
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.pdb
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.xml
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbprojAssemblyReference.cache
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.Form1.resources
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.Resources.resources
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbproj.GenerateResource.cache
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbproj.CoreCompileInputs.cache
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.exe
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.xml
+E:\VB.NET Begin\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.pdb
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.exe.config
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.exe
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.pdb
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\bin\Debug\winapp_msgbox.xml
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbprojAssemblyReference.cache
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.Form1.resources
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.Resources.resources
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbproj.GenerateResource.cache
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.vbproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.exe
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.xml
+D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\02. vb.net - msg box\winapp_msgbox\obj\Debug\winapp_msgbox.pdb
