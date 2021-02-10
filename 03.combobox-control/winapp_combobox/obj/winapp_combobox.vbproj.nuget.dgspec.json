@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox\\winapp_combobox.vbproj": {}
+    "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox.vbproj": {}
   },
   "projects": {
-    "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox\\winapp_combobox.vbproj": {
+    "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox\\winapp_combobox.vbproj",
+        "projectUniqueName": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox.vbproj",
         "projectName": "winapp_combobox",
-        "projectPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox\\winapp_combobox.vbproj",
+        "projectPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox.vbproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\winapp_combobox\\obj\\",
+        "outputPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\03.combobox-control\\winapp_combobox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
