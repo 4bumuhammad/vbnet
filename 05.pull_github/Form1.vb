@@ -31,7 +31,7 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
-        'RunScript("curl -L https://github.com/4bumuhammad/coba-git/script.js?private_token=711a70816442792c648c63e47274705fa18ae9aa -outfile D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\AplikasidariGit\")
+        'RunScript("curl https://github.com/4bumuhammad/?private_token=711a70816442792c648c63e47274705fa18ae9aa -outfile D:\Microsoft Visual Studio 2019\VB.Net(Win-Desk)\AplikasidariGit\")
     End Sub
 
 End Class

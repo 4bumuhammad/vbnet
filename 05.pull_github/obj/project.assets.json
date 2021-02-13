@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\05.pull_github\\wapp_pullfromgithub.vbproj",
+      "projectUniqueName": "D:\\MicrosoftVisualStudio2019\\VB.NetWinDesk\\05.pull_github\\wapp_pullfromgithub.vbproj",
       "projectName": "wapp_pullfromgithub",
-      "projectPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\05.pull_github\\wapp_pullfromgithub.vbproj",
+      "projectPath": "D:\\MicrosoftVisualStudio2019\\VB.NetWinDesk\\05.pull_github\\wapp_pullfromgithub.vbproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Microsoft Visual Studio 2019\\VB.Net(Win-Desk)\\05.pull_github\\obj\\",
+      "outputPath": "D:\\MicrosoftVisualStudio2019\\VB.NetWinDesk\\05.pull_github\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,7 @@
         "net5.0-windows7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "D:\\MicrosoftVisualStudio2019\\VB.NetWinDesk\\NugetsLocal": {}
       },
       "frameworks": {
         "net5.0-windows7.0": {
